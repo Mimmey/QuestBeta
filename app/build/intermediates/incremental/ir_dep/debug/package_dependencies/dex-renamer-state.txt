@@ -1,0 +1,4 @@
+#Sat Oct 05 22:08:55 YEKT 2019
+base.0=/home/olga/Projects/Android/Quest/quest/app/build/intermediates/transforms/dexMerger/debug/26
+path.0=classes.dex
+renamed.0=classes.dex

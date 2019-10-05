@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#885941</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorBgMessenger">#fff0f5</color>
+    <color name="colorTextMarket">#362c12</color>
+    <color name="colorTextView">#fcfcee</color>
+
+    <color name="colorTextQuestion">#1a4876</color>
+    <style name="Question.Button" parent="ThemeOverlay.AppCompat">
+        <item name="colorAccent">#dbefff</item>
+        <item name="colorControlHighlight">#BBBBBB</item>
+    </style>
+
+    <style name="Market.Button" parent="ThemeOverlay.AppCompat">
+        <item name="colorAccent">#fcfcee</item>
+        <item name="colorControlHighlight">#BBBBBB</item>
+
+    </style>
+
+
+
+</resources>
